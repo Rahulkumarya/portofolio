@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#gec{
+    margin: 25px;
+    border: 14px solid;
+    border-radius: 10px;
+    padding: 18px;
+}
